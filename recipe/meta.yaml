@@ -1,6 +1,6 @@
 {% set name = "trollius" %}
-{% set version = "2.2" %}
-{% set sha256 = "b35b9a9079c3c06a04cedf27dd833982b5d58401722da63d2c7c6384063a6924" %}
+{% set version = "2.2.1" %}
+{% set sha256 = "e525b94e80c5893293320975b93bb06f5104b6b84f7299e9708a7ae4d5c310ca" %}
 
 package:
   name: {{ name|lower }}
